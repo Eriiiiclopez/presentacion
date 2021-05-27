@@ -196,6 +196,7 @@ body
 .imagenfinal3d {
 	width: 40%;
 	height: 600px;
+	overflow: hidden;
 	margin-top: 5%;
 	margin-left: 6%;
 	border-radius: 20px;
